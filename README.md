@@ -1,0 +1,2 @@
+# selfdeploy
+self deploying instructions
