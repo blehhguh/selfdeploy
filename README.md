@@ -20,3 +20,6 @@ Online Services
 [Render](https:/render.com)
 [Replit](https://replit.com)
 [Hop](https://hop.sh)
+
+
+Render: Click Web Service -> configure build cmd : npm i -> configure start cmd : npm start
